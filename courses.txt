@@ -1,0 +1,12 @@
+IntroductionToProgramming 100
+AdvancedProgramming 101
+WebDesign 102
+OperatingSystem 103
+ComputerWorkshop 104
+StrategicManagement 105
+DATABASE 106
+ADVANCEDPROGRAMMING 107
+DATASTRUCTURE 108
+NETWORK 109
+ALGORITHMDESIGN 110
+LOGICCERCUIT 111
